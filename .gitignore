@@ -1,0 +1,11 @@
+# Secrets
+.env
+.mcp.json
+
+# Intermediate files (always regenerated)
+.tmp/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
