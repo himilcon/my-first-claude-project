@@ -1,0 +1,10 @@
+Cust ID;Name;E-Mail;Phone Number;Company;City;Zip;Country;DOB;Created At;Notes
+1;  JOÃO DA SILVA ;Joao.Silva@GMIAL.com ;912 345 678;Acme;LISBOA;1000 - 001;Portugal;25/12/1985;2024-01-03;vip
+2;maria o'neill;maria@example.com;+351 21 123 4567;N/A;porto;4000-123;PT;03/04/1990;5 March 2024;
+3;Smith, John;john.smith@example;(555) 123-4567 ext 22;  Globex  ;Boston;02134;USA;1979-07-14;03/15/2024;
+;;;;;;;;;;
+4;JOAO DA SILVA;joao.silva@gmail.com;;Acme Corp;Lisboa;;portugal;;;dup of 1
+5;Peter McDonald;NULL;00351 935551234;-;Faro;8000-1;Narnia;31/02/1980;2024-13-01;
+6;Ana Sousa;ana.sousa@example.pt;123;Initech;Braga;4700-000;portugal;12-08-1992;;"multi
+line note"
+7;extra;fields;here;x;x;x;x;x;x;x;x
